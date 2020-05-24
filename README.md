@@ -18,3 +18,6 @@ curl_setopt ($ch, CURLOPT_ RETURNTRANSFER, true);
 $result = curl_exec($ch);
 
 curl_close($ch);
+
+
+// it is similar to what Jason suggested .
